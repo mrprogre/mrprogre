@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="20%"/>
+<div id="header" align="left">  
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="23%"/>
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="23%"/>
+  <img src="https://media.giphy.com/media/Su6BwkW2GelyTtRhNq/giphy.gif" width="23%"/>
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrprogre&theme=vue)
-
-
-https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif
