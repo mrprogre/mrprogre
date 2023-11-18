@@ -5,5 +5,3 @@
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="23%"/>
   <img src="https://media.giphy.com/media/Su6BwkW2GelyTtRhNq/giphy.gif" width="23%"/>
 </div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrprogre&theme=vue)
