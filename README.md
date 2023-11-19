@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm a Java and database developer
+### Java/database developer
 
 <div id="header" align="left">  
   <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="33%"/>
